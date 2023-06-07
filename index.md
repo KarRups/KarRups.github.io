@@ -7,7 +7,7 @@ I want to use my career to improve the wellbeing of people as much as I can. Cur
 
 ---
 
-## read some research I have done
+## Some research I have done
 
 - [**Over Parameterisation in Deep Learning** - A small introduction to popuplar theories on why Deep Learning works and experiments on model overfitting wit ResNet20](https://karrups.github.io/docs/OverParameterisation.pdf) <br>
 
