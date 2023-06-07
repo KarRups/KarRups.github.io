@@ -11,7 +11,7 @@ I want to use my career to improve the wellbeing of people as much as I can. Cur
 
 - [**Over Parameterisation in Deep Learning** - A small introduction to popuplar theories on why Deep Learning works and experiments on model overfitting wit ResNet20](https://karrups.github.io/docs/OverParameterisation.pdf) <br>
 
-- [Streamlined versions of old **lecture notes** I made](https://karrups.github.io/lecture_notes.html)
+- [Streamlined versions of old **lecture notes** I made](https://karrups.github.io/lecture_notes.md)
 
 
 <!---
