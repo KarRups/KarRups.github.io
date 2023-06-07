@@ -1,7 +1,7 @@
 ## lecture notes
 
 
-[Simulation Methods](https://github.com/karrups/karrups.github.io/master/docs/Karan_Stream_Simulation_Methods.pdf)<br>
+[Simulation Methods](https://github.com/karrups/karrups.github.io/blob/master/docs/Karan_Stream_Simulation_Methods.pdf)<br>
 Attended in 2023, taught by Dr Gonzalo Mena and Dr Jun Yang
 
 [Numerical Parital Differential Equations](https://github.com/karrups/karrups.github.io/blob/master/docs/NumericalPDEs.pdf)<br>
